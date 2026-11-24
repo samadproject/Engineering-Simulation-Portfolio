@@ -52,7 +52,7 @@ January 2020 – March 2022
 
 | ID | Project | Software | Status |
 |---|---|---|---|
-| P01 | Pressure Vessel Nozzle Analysis | ANSYS APDL | In Progress |
+| P01 | [Pressure Vessel Nozzle Analysis](./01_Pressure_Vessel_Nozzle/) | ANSYS APDL | In Progress |
 | P02 | Rocket Nose Cone CFD | ANSYS Fluent | In Progress |
 | P03 | Nonlinear Bolted Flange | ANSYS | Planned |
 | P04 | Gearbox Housing Analysis | ANSYS | Planned |
